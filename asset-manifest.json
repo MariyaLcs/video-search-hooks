@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/video-search-hooks/static/css/main.8ad48a67.chunk.css",
+    "main.js": "/video-search-hooks/static/js/main.e14fde62.chunk.js",
+    "main.js.map": "/video-search-hooks/static/js/main.e14fde62.chunk.js.map",
+    "runtime-main.js": "/video-search-hooks/static/js/runtime-main.f2ed3700.js",
+    "runtime-main.js.map": "/video-search-hooks/static/js/runtime-main.f2ed3700.js.map",
+    "static/js/2.52078bfb.chunk.js": "/video-search-hooks/static/js/2.52078bfb.chunk.js",
+    "static/js/2.52078bfb.chunk.js.map": "/video-search-hooks/static/js/2.52078bfb.chunk.js.map",
+    "index.html": "/video-search-hooks/index.html",
+    "precache-manifest.33ebc50513c7947926b106767b8fda8f.js": "/video-search-hooks/precache-manifest.33ebc50513c7947926b106767b8fda8f.js",
+    "service-worker.js": "/video-search-hooks/service-worker.js",
+    "static/css/main.8ad48a67.chunk.css.map": "/video-search-hooks/static/css/main.8ad48a67.chunk.css.map",
+    "static/js/2.52078bfb.chunk.js.LICENSE.txt": "/video-search-hooks/static/js/2.52078bfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2ed3700.js",
+    "static/js/2.52078bfb.chunk.js",
+    "static/css/main.8ad48a67.chunk.css",
+    "static/js/main.e14fde62.chunk.js"
+  ]
+}
